@@ -1,0 +1,15 @@
+{
+  "short_name": "人物关系力导向图",
+  "name": "CBDB人物关系力导向图",
+  "icons": [
+    {
+      "src": "CBDB.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

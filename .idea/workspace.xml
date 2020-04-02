@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/containers/SimpleRelationshipChart.js" line="397" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0abd678-3580-4269-8d14-0e26dec805ca" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/SimpleRelationshipChart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39144">
+              <caret line="2011" column="58" selection-start-line="2011" selection-start-column="58" selection-end-line="2011" selection-end-column="58" />
+              <folding>
+                <element signature="n#!!block;n#handleChange#0;n#SimpleRelationshipChart#0" />
+                <element signature="n#!!block;n#handleClick#0;n#SimpleRelationshipChart#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/charts/D3SimpleForceChart1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1827">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>=&gt;</find>
+      <find>tang</find>
+      <find>address</find>
+      <find>_tang</find>
+      <find>请选择</find>
+      <find>r</find>
+      <find>isradio</find>
+      <find>Radio</find>
+      <find>test</find>
+      <find>radio</find>
+      <find>Jac</find>
+      <find>Jack</find>
+      <find>jack</find>
+      <find>datatype</find>
+      <find>对不起</find>
+      <find>生平信息请求</find>
+      <find>2.3</find>
+      <find>筛选</find>
+      <find>maxRelationValue</find>
+      <find>settimeout</find>
+      <find>namehan</find>
+      <find>assocPersons</find>
+      <find>head2</find>
+      <find>3.1</find>
+      <find>3.2</find>
+      <find>err</find>
+      <find>err'</find>
+      <find>handleClickSelect</find>
+      <find>handleChange</find>
+      <find>alert</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>title2</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ncbdb" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/manifest.json" />
+        <option value="$PROJECT_DIR$/src/containers/Home.js" />
+        <option value="$PROJECT_DIR$/src/utils/envconfig.js" />
+        <option value="$PROJECT_DIR$/webpack.dev.config.js" />
+        <option value="$PROJECT_DIR$/src/containers/Name.js" />
+        <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/RootHeader.js" />
+        <option value="$PROJECT_DIR$/src/style/SimpleForceChart.css" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/charts/D3SimpleChinaMapChart.js" />
+        <option value="$PROJECT_DIR$/src/containers/MapTimeline.js" />
+        <option value="$PROJECT_DIR$/src/containers/SimpleMapTimeline.js" />
+        <option value="$PROJECT_DIR$/public/Song.geojson" />
+        <option value="$PROJECT_DIR$/public/Yuan.geojson" />
+        <option value="$PROJECT_DIR$/src/containers/SimpleChinaMapChart.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/RootBreadcrumb.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/SiderMenus.js" />
+        <option value="$PROJECT_DIR$/src/routes/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/SimpleForceChart.js" />
+        <option value="$PROJECT_DIR$/src/style/Home.css" />
+        <option value="$PROJECT_DIR$/src/components/charts/D3SimpleForceChart.js" />
+        <option value="$PROJECT_DIR$/src/containers/SimpleMapTimelineChart.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/charts/D3SimpleForceChart1.js" />
+        <option value="$PROJECT_DIR$/src/containers/SimpleRelationshipChart.js" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="81" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="config" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="scripts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="charts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="layout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="containers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="routes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CBDB" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="style" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547697849061" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\CBDB\public" />
+      <recent name="H:\React\ant-admin-master\src\containers" />
+      <recent name="H:\React\ant-admin-master\src\components\charts" />
+      <recent name="H:\React\ant-admin-master\src\style" />
+      <recent name="H:\GitHub\ant-admin-master\src\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\CBDB\src\containers" />
+      <recent name="F:\CBDB" />
+      <recent name="F:\CBDB\src\mapjson" />
+      <recent name="H:\GitHub\ant-admin-master\src\style" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="H:/node.js/node" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="node" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0abd678-3580-4269-8d14-0e26dec805ca" name="Default Changelist" comment="" />
+      <created>1539173525259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539173525259</updated>
+      <workItem from="1539173527530" duration="2105000" />
+      <workItem from="1539223189340" duration="2775000" />
+      <workItem from="1539229229418" duration="870000" />
+      <workItem from="1539681357553" duration="914000" />
+      <workItem from="1540003982811" duration="1790000" />
+      <workItem from="1540021040706" duration="2126000" />
+      <workItem from="1540035265074" duration="6982000" />
+      <workItem from="1540050494926" duration="698000" />
+      <workItem from="1540088459023" duration="5042000" />
+      <workItem from="1540104675605" duration="3850000" />
+      <workItem from="1540111192801" duration="614000" />
+      <workItem from="1540123611553" duration="270000" />
+      <workItem from="1540182990246" duration="9353000" />
+      <workItem from="1540215663892" duration="1293000" />
+      <workItem from="1540217148035" duration="279000" />
+      <workItem from="1540260452220" duration="4896000" />
+      <workItem from="1540265563421" duration="2562000" />
+      <workItem from="1540296032591" duration="5373000" />
+      <workItem from="1540365795352" duration="596000" />
+      <workItem from="1540389391685" duration="2632000" />
+      <workItem from="1540434760969" duration="1680000" />
+      <workItem from="1540452875179" duration="4249000" />
+      <workItem from="1540458527963" duration="8348000" />
+      <workItem from="1540513673030" duration="17925000" />
+      <workItem from="1540550555325" duration="1562000" />
+      <workItem from="1540605959646" duration="155000" />
+      <workItem from="1540606476538" duration="7408000" />
+      <workItem from="1540625346711" duration="1831000" />
+      <workItem from="1540630366244" duration="2197000" />
+      <workItem from="1540710076979" duration="4499000" />
+      <workItem from="1540720023738" duration="3869000" />
+      <workItem from="1540738700509" duration="115000" />
+      <workItem from="1541040052657" duration="13913000" />
+      <workItem from="1541071181163" duration="5105000" />
+      <workItem from="1541078769946" duration="3155000" />
+      <workItem from="1541120952417" duration="10471000" />
+      <workItem from="1541136290980" duration="399000" />
+      <workItem from="1541137055704" duration="1304000" />
+      <workItem from="1541170344437" duration="2651000" />
+      <workItem from="1541207708864" duration="2162000" />
+      <workItem from="1541319287672" duration="325000" />
+      <workItem from="1541320882803" duration="1000" />
+      <workItem from="1542106734944" duration="802000" />
+      <workItem from="1542109796900" duration="1688000" />
+      <workItem from="1542111696148" duration="1735000" />
+      <workItem from="1542113721487" duration="1955000" />
+      <workItem from="1542192406507" duration="3779000" />
+      <workItem from="1542247014520" duration="1600000" />
+      <workItem from="1542629700459" duration="5132000" />
+      <workItem from="1542765952619" duration="1450000" />
+      <workItem from="1542791904408" duration="3728000" />
+      <workItem from="1543306028212" duration="1276000" />
+      <workItem from="1543837408072" duration="1461000" />
+      <workItem from="1543927342243" duration="1869000" />
+      <workItem from="1544497183210" duration="639000" />
+      <workItem from="1544504513896" duration="1669000" />
+      <workItem from="1544624712688" duration="712000" />
+      <workItem from="1544667436152" duration="1406000" />
+      <workItem from="1544669389558" duration="930000" />
+      <workItem from="1544670359551" duration="594000" />
+      <workItem from="1544670994553" duration="525000" />
+      <workItem from="1544671748625" duration="763000" />
+      <workItem from="1544710537397" duration="904000" />
+      <workItem from="1545012942563" duration="725000" />
+      <workItem from="1545210887135" duration="158000" />
+      <workItem from="1545833752795" duration="3114000" />
+      <workItem from="1545923331752" duration="1132000" />
+      <workItem from="1546002593393" duration="1492000" />
+      <workItem from="1546004629233" duration="3134000" />
+      <workItem from="1546682096690" duration="3525000" />
+      <workItem from="1546700972003" duration="600000" />
+      <workItem from="1546742404952" duration="264000" />
+      <workItem from="1546870955955" duration="2416000" />
+      <workItem from="1546959723898" duration="1786000" />
+      <workItem from="1547003552168" duration="147000" />
+      <workItem from="1547040728177" duration="2522000" />
+      <workItem from="1547045572439" duration="279000" />
+      <workItem from="1547347944533" duration="76000" />
+      <workItem from="1547348345223" duration="1970000" />
+      <workItem from="1547355040267" duration="3430000" />
+      <workItem from="1547362574535" duration="986000" />
+      <workItem from="1547363657015" duration="1976000" />
+      <workItem from="1547367271459" duration="692000" />
+      <workItem from="1547367983324" duration="67000" />
+      <workItem from="1547380289234" duration="1279000" />
+      <workItem from="1547382760285" duration="527000" />
+      <workItem from="1547469392852" duration="4503000" />
+      <workItem from="1547558679356" duration="587000" />
+      <workItem from="1547559522133" duration="3029000" />
+      <workItem from="1547563435075" duration="330000" />
+      <workItem from="1547649023779" duration="1559000" />
+      <workItem from="1547651100308" duration="910000" />
+      <workItem from="1547652033896" duration="613000" />
+      <workItem from="1547693692711" duration="124000" />
+      <workItem from="1547694897495" duration="34000" />
+      <workItem from="1547695645011" duration="186000" />
+      <workItem from="1547695996457" duration="1842000" />
+      <workItem from="1547699074806" duration="283000" />
+      <workItem from="1547699815021" duration="61000" />
+      <workItem from="1547863585168" duration="1892000" />
+      <workItem from="1547867639606" duration="2174000" />
+      <workItem from="1547869947662" duration="1545000" />
+      <workItem from="1547876821929" duration="2289000" />
+      <workItem from="1547952437717" duration="608000" />
+      <workItem from="1547956651038" duration="959000" />
+      <workItem from="1547958137390" duration="359000" />
+      <workItem from="1547958774707" duration="6970000" />
+      <workItem from="1547967775858" duration="1773000" />
+      <workItem from="1547982859252" duration="106000" />
+      <workItem from="1548168355751" duration="1020000" />
+      <workItem from="1548423775067" duration="52000" />
+      <workItem from="1548425005112" duration="1643000" />
+      <workItem from="1548514719462" duration="1742000" />
+      <workItem from="1548555907645" duration="3974000" />
+      <workItem from="1548588203906" duration="2294000" />
+      <workItem from="1548850157935" duration="3977000" />
+      <workItem from="1548909893682" duration="1255000" />
+      <workItem from="1548911446208" duration="1507000" />
+      <workItem from="1549027357514" duration="1009000" />
+      <workItem from="1549031796388" duration="1043000" />
+      <workItem from="1549033866509" duration="127000" />
+      <workItem from="1549035989451" duration="125000" />
+      <workItem from="1549075035854" duration="3534000" />
+      <workItem from="1549088429924" duration="1068000" />
+      <workItem from="1549090266706" duration="1368000" />
+      <workItem from="1549119685261" duration="456000" />
+      <workItem from="1549697012739" duration="5314000" />
+      <workItem from="1549776734829" duration="2715000" />
+      <workItem from="1549955062935" duration="2961000" />
+      <workItem from="1549970156016" duration="3439000" />
+      <workItem from="1550057991375" duration="682000" />
+      <workItem from="1550058817760" duration="1544000" />
+      <workItem from="1550062381244" duration="841000" />
+      <workItem from="1550128816500" duration="150000" />
+      <workItem from="1550299836890" duration="997000" />
+      <workItem from="1550407195612" duration="814000" />
+      <workItem from="1550415360428" duration="507000" />
+      <workItem from="1550454282431" duration="291000" />
+      <workItem from="1550497723069" duration="998000" />
+      <workItem from="1550501484638" duration="987000" />
+      <workItem from="1550502751918" duration="885000" />
+      <workItem from="1550504143505" duration="474000" />
+      <workItem from="1550565335044" duration="665000" />
+      <workItem from="1550669835178" duration="2690000" />
+      <workItem from="1550675193210" duration="1666000" />
+      <workItem from="1550733987602" duration="2190000" />
+      <workItem from="1550740924411" duration="593000" />
+      <workItem from="1550757657233" duration="1582000" />
+      <workItem from="1550805339695" duration="1560000" />
+      <workItem from="1550807303926" duration="391000" />
+      <workItem from="1550813087787" duration="8208000" />
+      <workItem from="1550889392147" duration="1199000" />
+      <workItem from="1550985953746" duration="5851000" />
+      <workItem from="1550992371965" duration="12823000" />
+      <workItem from="1551009836624" duration="472000" />
+      <workItem from="1551081129231" duration="1566000" />
+      <workItem from="1551155859327" duration="1521000" />
+      <workItem from="1551191722488" duration="3047000" />
+      <workItem from="1551236588331" duration="814000" />
+      <workItem from="1551273238960" duration="2482000" />
+      <workItem from="1551275879902" duration="2016000" />
+      <workItem from="1551323008942" duration="2304000" />
+      <workItem from="1551338528132" duration="218000" />
+      <workItem from="1551357492592" duration="7467000" />
+      <workItem from="1551412226042" duration="7104000" />
+      <workItem from="1551429681079" duration="1125000" />
+      <workItem from="1551508131096" duration="599000" />
+      <workItem from="1551515943275" duration="172000" />
+      <workItem from="1551575597703" duration="8044000" />
+      <workItem from="1551595493206" duration="3498000" />
+      <workItem from="1551599866412" duration="2567000" />
+      <workItem from="1551709892395" duration="1058000" />
+      <workItem from="1551770305150" duration="4405000" />
+      <workItem from="1551796345225" duration="913000" />
+      <workItem from="1551839609866" duration="215000" />
+      <workItem from="1551856434726" duration="1682000" />
+      <workItem from="1552116302505" duration="1017000" />
+      <workItem from="1552275466884" duration="2321000" />
+      <workItem from="1552282185384" duration="189000" />
+      <workItem from="1552529861777" duration="578000" />
+      <workItem from="1553184362086" duration="1385000" />
+      <workItem from="1553262836917" duration="1310000" />
+      <workItem from="1553431596040" duration="1005000" />
+      <workItem from="1553437472167" duration="2528000" />
+      <workItem from="1553440961501" duration="619000" />
+      <workItem from="1553481482706" duration="4140000" />
+      <workItem from="1553494928719" duration="611000" />
+      <workItem from="1553569889040" duration="742000" />
+      <workItem from="1553570857867" duration="1595000" />
+      <workItem from="1553676127500" duration="2436000" />
+      <workItem from="1553832956895" duration="1166000" />
+      <workItem from="1554875949524" duration="489000" />
+      <workItem from="1554876457859" duration="5078000" />
+      <workItem from="1554909864230" duration="2904000" />
+      <workItem from="1554983886213" duration="4533000" />
+      <workItem from="1555035313637" duration="10278000" />
+      <workItem from="1555163586570" duration="5942000" />
+      <workItem from="1555203403097" duration="4057000" />
+      <workItem from="1555217889282" duration="2464000" />
+      <workItem from="1555222375074" duration="383000" />
+      <workItem from="1555223052422" duration="4848000" />
+      <workItem from="1555228962569" duration="7509000" />
+      <workItem from="1555303227813" duration="799000" />
+      <workItem from="1555304238301" duration="3079000" />
+      <workItem from="1555307483257" duration="1074000" />
+      <workItem from="1555308719268" duration="294000" />
+      <workItem from="1555327173399" duration="157000" />
+      <workItem from="1555328783622" duration="6628000" />
+      <workItem from="1555466792737" duration="830000" />
+      <workItem from="1555467805897" duration="2085000" />
+      <workItem from="1555472438165" duration="8951000" />
+      <workItem from="1555487003248" duration="3573000" />
+      <workItem from="1555492533391" duration="993000" />
+      <workItem from="1555648174848" duration="1764000" />
+      <workItem from="1555652893569" duration="4872000" />
+      <workItem from="1555740683271" duration="1046000" />
+      <workItem from="1555742971151" duration="2788000" />
+      <workItem from="1555753866178" duration="3619000" />
+      <workItem from="1555860701245" duration="2695000" />
+      <workItem from="1555908633959" duration="3385000" />
+      <workItem from="1555914148330" duration="1584000" />
+      <workItem from="1555918828248" duration="123000" />
+      <workItem from="1555933783485" duration="2322000" />
+      <workItem from="1556511831393" duration="503000" />
+      <workItem from="1556762768387" duration="2974000" />
+      <workItem from="1556808925241" duration="1255000" />
+      <workItem from="1556896701265" duration="1757000" />
+      <workItem from="1557154533649" duration="2633000" />
+      <workItem from="1557242397713" duration="3763000" />
+      <workItem from="1557550457883" duration="930000" />
+      <workItem from="1557558979791" duration="692000" />
+      <workItem from="1557560086514" duration="2452000" />
+      <workItem from="1557562725110" duration="1254000" />
+      <workItem from="1557571240054" duration="2310000" />
+      <workItem from="1557759069243" duration="2059000" />
+      <workItem from="1557844475737" duration="3533000" />
+      <workItem from="1557982570842" duration="7116000" />
+      <workItem from="1558008066956" duration="737000" />
+      <workItem from="1558009004249" duration="863000" />
+      <workItem from="1558011257824" duration="3051000" />
+      <workItem from="1558107268968" duration="493000" />
+      <workItem from="1558147480892" duration="2620000" />
+      <workItem from="1558162205730" duration="367000" />
+      <workItem from="1558178152548" duration="1469000" />
+      <workItem from="1558197912720" duration="515000" />
+      <workItem from="1558267069807" duration="1223000" />
+      <workItem from="1558331633155" duration="5861000" />
+      <workItem from="1558363016430" duration="2589000" />
+      <workItem from="1558441433082" duration="4851000" />
+      <workItem from="1558613923246" duration="1556000" />
+      <workItem from="1558625431950" duration="1172000" />
+      <workItem from="1558705615500" duration="2043000" />
+      <workItem from="1558750562365" duration="646000" />
+      <workItem from="1558760640127" duration="3216000" />
+      <workItem from="1558763905911" duration="1213000" />
+      <workItem from="1558768112783" duration="7975000" />
+      <workItem from="1558781509688" duration="14426000" />
+      <workItem from="1558838583867" duration="3003000" />
+      <workItem from="1558863030259" duration="2560000" />
+      <workItem from="1558866919810" duration="8756000" />
+      <workItem from="1558883794264" duration="600000" />
+      <workItem from="1558931478391" duration="8032000" />
+      <workItem from="1558967584783" duration="2779000" />
+      <workItem from="1558972661937" duration="263000" />
+      <workItem from="1559046766696" duration="6722000" />
+      <workItem from="1559144092100" duration="2148000" />
+      <workItem from="1559216649367" duration="5138000" />
+      <workItem from="1559326126076" duration="212000" />
+      <workItem from="1559359371732" duration="8461000" />
+      <workItem from="1559405477227" duration="493000" />
+      <workItem from="1559547375327" duration="751000" />
+      <workItem from="1559568939071" duration="8375000" />
+      <workItem from="1559617750931" duration="1413000" />
+      <workItem from="1559631599031" duration="2323000" />
+      <workItem from="1559700923560" duration="1552000" />
+      <workItem from="1559709349732" duration="2285000" />
+      <workItem from="1559714192881" duration="2011000" />
+      <workItem from="1559718981932" duration="6848000" />
+      <workItem from="1559737854136" duration="6940000" />
+      <workItem from="1559751753344" duration="2118000" />
+      <workItem from="1559907847097" duration="3378000" />
+      <workItem from="1559956842147" duration="1788000" />
+      <workItem from="1559969152818" duration="5979000" />
+      <workItem from="1559976797523" duration="10993000" />
+      <workItem from="1560002497096" duration="5536000" />
+      <workItem from="1560040448759" duration="5742000" />
+      <workItem from="1560085603393" duration="5181000" />
+      <workItem from="1560095153820" duration="1455000" />
+      <workItem from="1560120675868" duration="1822000" />
+      <workItem from="1560228258637" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="732253000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49675325" visible="true" weight="0.19863014" />
+      <window_info id="Structure" order="1" sideWeight="0.5032467" side_tool="true" weight="0.33742005" />
+      <window_info id="npm" order="2" sideWeight="0.5032258" side_tool="true" weight="0.26066098" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49420443" weight="0.28091106" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49841937" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4947313" weight="0.25813448" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5052687" side_tool="true" weight="0.25813448" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/charts/D3SimpleChinaMapChart.js" />
+    <entry file="file://E:/大学/毕业设计/CBDB/CBDB0.0/src/components/charts/D3SimpleChinaMapChart.js" />
+    <entry file="file://$PROJECT_DIR$/src/style/SimpleForceChart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Tang.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="925" selection-start-line="1" selection-start-column="925" selection-end-line="1" selection-end-column="925" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/MapTimeline.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/SimpleMapTimeline.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Tencent/TIM/Temp/4Q%JPJ{%6AP8[32%TQ(W8[6.png" />
+    <entry file="file://$PROJECT_DIR$/public/Tang.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="2" column="774955" selection-start-line="2" selection-start-column="774952" selection-end-line="2" selection-end-column="774955" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Song.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret column="2574971" selection-start-column="2574967" selection-end-column="2574971" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Ming.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="73323" selection-start-column="73318" selection-end-column="73323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Yuan.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4411" selection-start-column="4411" selection-end-column="4411" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBDB.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SimpleForceChart.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/SimpleChinaMapChart.js" />
+    <entry file="file://$PROJECT_DIR$/public/Qing.geojson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="89448" selection-start-column="89445" selection-end-column="89448" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/Tables.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpackDevServer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.prod.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5649">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/paths.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/Charts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/Common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-535">
+          <caret line="94" column="20" selection-start-line="94" selection-start-column="2" selection-end-line="94" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="389" column="8" selection-start-line="389" selection-start-column="8" selection-end-line="389" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5cf7485c1a5d9668/SimpleRelationshipChart.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/SimpleMapTimelineChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="189" column="41" selection-start-line="189" selection-start-column="40" selection-end-line="189" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#513#582#0" />
+            <element signature="e#635#704#0" />
+            <element signature="e#757#826#0" />
+            <element signature="e#879#948#0" />
+            <element signature="e#1001#1070#0" />
+            <element signature="e#1095#6025#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/Home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/SimpleForceChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#test#0;n#SimpleForceChart#0" />
+            <element signature="n#!!block;n#nameHandler#0;n#SimpleForceChart#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="81" column="56" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/NotFound.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/SiderMenus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="88" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/RootHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1966">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/RootBreadcrumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/charts/D3SimpleForceChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="109" column="38" selection-start-line="109" selection-start-column="27" selection-end-line="109" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/SimpleRelationshipChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39144">
+          <caret line="2011" column="58" selection-start-line="2011" selection-start-column="58" selection-end-line="2011" selection-end-column="58" />
+          <folding>
+            <element signature="n#!!block;n#handleChange#0;n#SimpleRelationshipChart#0" />
+            <element signature="n#!!block;n#handleClick#0;n#SimpleRelationshipChart#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/charts/D3SimpleForceChart1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
