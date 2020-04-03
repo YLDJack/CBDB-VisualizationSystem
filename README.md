@@ -6,7 +6,7 @@
 
   截止2019年4月为止，该资料库共收录约427,000人的传记资料，这些人物主要出自七世纪至十九世纪。该资料库除可作为人物传记的一种参考资料外，亦可用于统计分析与空间分析之用。下图是 CBDB 中已知籍贯的 67,000 历史人物的地理分佈图:
 
-![](https://github.com/YLDJack/CBDB/tree/master/imgs/cbdb.jpg)
+![历史人物的地理分佈图](https://github.com/YLDJack/CBDB/raw/master/imgs/cbdb.jpg)
 
 ## 本项目简介
 
@@ -16,4 +16,8 @@
 
   系统中包括了人物关系力导向图、各朝代的人口分布密度图、各朝代疆域变化图、人口变化折线图以及升迁信息表等数据展现形式。系统整体预览图如下：
 
-![预览图](https://github.com/YLDJack/CBDB/tree/master/imgs/slt.png)
+![系统整体预览图](https://github.com/YLDJack/CBDB/raw/master/imgs/slt.png)
+
+## 结语
+
+  如果我的这个项目能有幸地被你看到，并且您有兴趣参与进来，欢迎发邮件到JackYuLunduan@163.com。很高兴能与你们合作，让我们一起为我国传统文化保护出一份力。（PS：CBDB的始祖是美国哈佛大学教授郝若貝教授（Robert M. Hartwell）（1932 – 1996），作为中国人，我们更应该努力地去参与到自己国家的文化保护中来。）
