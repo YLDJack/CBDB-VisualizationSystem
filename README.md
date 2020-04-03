@@ -6,7 +6,7 @@
 
   截止2019年4月为止，该资料库共收录约427,000人的传记资料，这些人物主要出自七世纪至十九世纪。该资料库除可作为人物传记的一种参考资料外，亦可用于统计分析与空间分析之用。下图是 CBDB 中已知籍贯的 67,000 历史人物的地理分佈图:
 
-![](https://github.com/YLDJack/CBDB/tree/master/imgs/cbdb.jpg)
+![](https://github.com/YLDJack/CBDB/raw/master/imgs/cbdb.jpg)
 
 ## 本项目简介
 
@@ -16,4 +16,4 @@
 
   系统中包括了人物关系力导向图、各朝代的人口分布密度图、各朝代疆域变化图、人口变化折线图以及升迁信息表等数据展现形式。系统整体预览图如下：
 
-![预览图](https://github.com/YLDJack/CBDB/tree/master/imgs/slt.png)
+![预览图](https://github.com/YLDJack/CBDB/raw/master/imgs/slt.png)
