@@ -1,12 +1,8 @@
 # CBDB中国历代任务历史可视化系统
 
-------
-
 ![antd](https://img.shields.io/badge/antd-v2.13.3-blue) ![mybaits](https://img.shields.io/badge/mybatis-v1.3.0-yellow)![SpringBoot](https://img.shields.io/badge/SpringBoot-v2.1.3.RELEASE-blue)![mysql](https://img.shields.io/badge/mysql-v5.1.45-red)![react](https://img.shields.io/badge/react-v15.6.1-lightgrey)![echarts](https://img.shields.io/badge/echarts-v3.7.1-green)![d3](https://img.shields.io/badge/d3-v4.11.0-brightgreen)
 
 ## CBDB简介
-
-------
 
   CBDB全称——中国历代人物传记资料库，其目标在于系统性地收入中国历史上所有重要的传记资料，并将其内容毫无限制地、免费地公诸学术之用。目前该资料库的开发工作係由哈佛大学费正清中国研究中心、中央研究院历史语言研究所及北京大学中国古代史研究中心三方合作进行。
 
@@ -15,8 +11,6 @@
 ![历史人物的地理分布图](https://github.com/YLDJack/CBDB/raw/master/imgs/cbdb.jpg)
 
 ## 本项目简介
-
-------
 
   本项目为本人就读研一期间，应导师课题要求，带领两位本科生共同完成的毕业设计项目。我的导师专注于研究数据可视化和文化遗产保护等方面的课题。所以CBDB自然成为了我们重点研究课题之一了。
 
