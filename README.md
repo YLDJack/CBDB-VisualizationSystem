@@ -1,6 +1,6 @@
 # CBDB中国历代任务历史可视化系统
 
-![antd](https://img.shields.io/badge/antd-v2.13.3-blue) ![mybaits](https://img.shields.io/badge/mybatis-v1.3.0-yellow)![SpringBoot](https://img.shields.io/badge/SpringBoot-v2.1.3.RELEASE-blue)![mysql](https://img.shields.io/badge/mysql-v5.1.45-red)![react](https://img.shields.io/badge/react-v15.6.1-lightgrey)![echarts](https://img.shields.io/badge/echarts-v3.7.1-green)![d3](https://img.shields.io/badge/d3-v4.11.0-brightgreen)
+<img src="https://img.shields.io/badge/echarts-v3.7.1-green" /> <img src="https://img.shields.io/badge/antd-v2.13.3-blue)" /> <img src="https://img.shields.io/badge/d3-v4.11.0-brightgreen)" /> <img src="https://img.shields.io/badge/echarts-v3.7.1-green)" /> <img src="https://img.shields.io/badge/SpringBoot-v2.1.3.RELEASE-blue)" /> <img src="https://img.shields.io/badge/mybatis-v1.3.0-yellow)" /> <img src="https://img.shields.io/badge/mysql-v5.1.45-red)" /> 
 
 ## CBDB简介
 
