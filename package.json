@@ -60,7 +60,7 @@
   },
   "proxy": {
     "/*": {
-      "target": "http://120.78.126.252/CBDB/",
+      "target": "http://192.168.137.1/CBDB/",
       "changeOrigin": true,
       "secure": true
     }
@@ -105,5 +105,6 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "sideEffects": false
 }

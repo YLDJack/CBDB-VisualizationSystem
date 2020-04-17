@@ -1,6 +1,20 @@
 # CBDB中国历代任务历史可视化系统
 
-<img src="https://img.shields.io/badge/echarts-v3.7.1-green" /> <img src="https://img.shields.io/badge/antd-v2.13.3-blue)" /> <img src="https://img.shields.io/badge/d3-v4.11.0-brightgreen)" /> <img src="https://img.shields.io/badge/echarts-v3.7.1-green)" /> <img src="https://img.shields.io/badge/SpringBoot-v2.1.3.RELEASE-blue)" /> <img src="https://img.shields.io/badge/mybatis-v1.3.0-yellow)" /> <img src="https://img.shields.io/badge/mysql-v5.1.45-red)" /> 
+<img src="https://img.shields.io/badge/React.js-v15.6.1-green" /> <img src="https://img.shields.io/badge/antd-v2.13.3-blue)" /> <img src="https://img.shields.io/badge/d3-v4.11.0-brightgreen)" /> <img src="https://img.shields.io/badge/echarts-v3.7.1-green)" /> <img src="https://img.shields.io/badge/SpringBoot-v2.1.3.RELEASE-blue)" /> <img src="https://img.shields.io/badge/MyBatis-v1.3.0-yellow)" /> <img src="https://img.shields.io/badge/MySQL-v5.1.45-red)" /> 
+
+# 技术选型
+
+| 技术       | 版本    |
+| :--------- | ------- |
+| ehcharts   | v15.6.1 |
+| antd       | v2.13.3 |
+| d3         | v4.11.0 |
+| SpringBoot | v2.1.3  |
+| MyBatis    | v1.3.0  |
+| MySQL      | v5.1.4  |
+| React.js   | v3.7.1  |
+
+
 
 ## CBDB简介
 

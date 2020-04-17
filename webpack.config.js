@@ -6,15 +6,34 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 
 const webpackConfig = {
-    entry: {},
+    entry: {
+       app:'/src/app.jsx',
+       vendor: [
+           'react',
+           'antd',
+           'axios',
+           'react-dom',
+           'react-router',
+           'jquery'
+       ]
+    },
     output:{
         // path:path.resolve(__dirname, './dist/'),
-        path:path.resolve('C:/wamp64/www/path/'),
-        filename:'[name].[chunkhash:6].js'
+        // path:path.resolve('C:/wamp64/www/path/'),
+        // filename:'[name].[chunkhash:6].js'
+        path:'/dist', //打包后的文件存放的地方
+        filename:'bundle.js',
+        publicPath:'http://localhost:8080/dist/'
     },
+    optimization: {
+        splitChunks: {
+          chunks: 'all'
+        }
+      },
+    mode: 'production',
     module:{
         rules:[
-            {
+            {oneof : [{
                 test:/\.js?$/,
                 exclude:/node_modules/,
                 loader:'babel-loader',
@@ -35,8 +54,7 @@ const webpackConfig = {
                     loader: 'expose-loader',
                     options: '$'
                 }]
-            }
-
+            }]}
         ]
     },
     plugins: [
@@ -48,9 +66,15 @@ const webpackConfig = {
                 verbose: true,
                 dry:   false
             }
-        )
+        ),
+        new webpack.optimize.UglifyJsPlugin(),
+        new webpack.optimize.CommonsChunkPlugin({
+            name:'vendor',
+            filename:'vendor.js'
+        })
     ],
 };
+
 
 // 获取指定路径下的入口文件
 function getEntries(globPath) {

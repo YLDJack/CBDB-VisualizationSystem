@@ -9,7 +9,7 @@ import SimpleMapTimelineChart from "../containers/SimpleMapTimelineChart";
 import SimpleRelationshipChart from "../containers/SimpleRelationshipChart";
 
 
-export const SiderMenusRoute = () => 
+ export const SiderMenusRoute = () => 
   <Route path="*" component={SiderMenus}/>
 
 export const RootBreadcrumbRoute = () => 
