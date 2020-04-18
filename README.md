@@ -1,6 +1,6 @@
 # CBDB中国历代任务历史可视化系统
 
-# 技术选型
+## 技术选型
 
 <img src="https://img.shields.io/badge/React.js-v15.6.1-green" /> <img src="https://img.shields.io/badge/antd-v2.13.3-blue)" /> <img src="https://img.shields.io/badge/d3-v4.11.0-brightgreen)" /> <img src="https://img.shields.io/badge/echarts-v3.7.1-green)" /> <img src="https://img.shields.io/badge/SpringBoot-v2.1.3.RELEASE-blue)" /> <img src="https://img.shields.io/badge/MyBatis-v1.3.0-yellow)" /> <img src="https://img.shields.io/badge/MySQL-v5.1.45-red)" /> 
 
