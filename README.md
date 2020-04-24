@@ -1,4 +1,4 @@
-# CBDB中国历代人物历史可视化系统
+# CBDB中国历代人物历史可视化系统(CBDB-VisualizationSystem)
 
 # License
 
@@ -29,7 +29,7 @@ MIT
   The full name of CBDB is the biography database of China's past dynasties. Its goal is to systematically collect all the important biographical materials in China's history, and make their contents available to the public for academic purposes without restriction and free of charge. At present, the development of the database is jointly carried out by the center for Chinese Studies of Fei Zhengqing of Harvard University, the Institute of history and language of the Central Research Institute and the center for ancient Chinese history of Peking University.
   As of April 2019, the database contains biographical data of about 427000 people, mainly from the 7th to 19th centuries. The database can be used not only as a reference for biography, but also for statistical analysis and spatial analysis. The following figure shows the geographical distribution of 67000 historical figures of known origin in CBDB:
 
-![历史人物的地理分布图](https://github.com/YLDJack/CBDB/raw/master/imgs/cbdb.jpg)
+![历史人物的地理分布图](https://github.com/YLDJack/CBDB-VisualizationSystem/blob/master/imgs/cbdb.jpg)
 
 ## 本项目简介（System Introduction）
 
@@ -40,7 +40,7 @@ MIT
   This project is a graduation project that I led two undergraduate students to complete together at the request of my tutor. My tutor focuses on data visualization and cultural heritage protection. Therefore, CBDB has naturally become one of our key research topics.
   At present, this system displays the information of historical figures in Five Dynasties, such as Tang, song, yuan, Ming and Qing. The system includes the figure relationship oriented map, population distribution density map of each dynasty, territory change map of each dynasty, population change line map and promotion information table. The overall preview of the system is as follows:
   
-![系统整体预览图](https://github.com/YLDJack/CBDB/raw/master/imgs/slt.png)
+![系统整体预览图](https://github.com/YLDJack/CBDB-VisualizationSystem/blob/master/imgs/slt.png)
 
 ## 结语
 
