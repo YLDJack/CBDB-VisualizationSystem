@@ -5,6 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+const WorkboxWebpackPlugin = require('workbox-webpack-plugin');
 
 // 设置 nodejs 环境变量 
 process.env.NODE_ENV = 'development';
@@ -101,7 +102,15 @@ const webpackConfig = {
         new MiniCssExtractPlugin({
             //对输出的css文件进行重命名
             filename: 'css/built.css'
-        })
+        }),
+        new WorkboxWebpackPlugin.GenerateSW(
+            {
+                /*1. 帮助 serviceworker 快速启动
+                 2. 删除旧的 serviceworker 生成一个 serviceworker 配置文件~ */
+                clientsClaim: true, 
+                skipWaiting: true
+            }
+        )
     ],
 };
 
