@@ -100,7 +100,10 @@
     ]
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-app",
+    "env": {
+      "browser": true 
+    }
   },
   "sideEffects": false,
   "devDependencies": {
