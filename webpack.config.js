@@ -7,7 +7,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
 // 设置 nodejs 环境变量 
-//process.env.NODE_ENV = 'development';
+process.env.NODE_ENV = 'development';
 
 const webpackConfig = {
     entry: {
